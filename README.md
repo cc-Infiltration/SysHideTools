@@ -1,5 +1,4 @@
-# SysHideTools
-## 系统级隐藏工具
+# SysHideTools(系统级隐藏工具)
 
 ### 项目简介
 SysHideTools 是一个纯自制的系统级隐藏工具，采用 C++ 开发，专为 Windows 平台设计。该工具提供了强大的进程隐藏、窗口隐藏和文件隐藏功能，旨在帮助用户保护隐私和增强系统安全性。
@@ -52,3 +51,7 @@ SysHideTools 是一个纯自制的系统级隐藏工具，采用 C++ 开发，�
 ---
 
 **注意**：本工具仅供学习和研究使用，请勿用于非法用途。作者不对任何不当使用造成的后果负责。
+
+### 作者的话
+- 这是在业余时间制作的小工具，还有很多地方可以改进
+- This is a gadget made in your spare time, and there are many things that can be improved
