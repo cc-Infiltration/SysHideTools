@@ -13,7 +13,7 @@ SysHideTools is a self-developed system-level hiding utility implemented in C++,
 - **Lightweight Design**: Small in size, low resource consumption, and efficient operation
 
 ### System Requirements
-- Operating System: Windows 7/8/10/11 (32-bit or 64-bit)
+- Operating System: Windows 7/8/10/11 (V2仅64-bit)
 - Compilation Environment: Visual Studio 2017 or later
 - Dependencies: No external dependency libraries, purely native API implementation
 
